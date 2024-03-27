@@ -1,3 +1,9 @@
+# This repo is archived
+
+Clarunit now lives in here: https://github.com/stacks-network/stacks-test-tools/tree/main/packages/clarunit.
+Please check the readme on how to install and use it. This copy is kept for
+historical purposes.
+
 # clarunit
 
 This package allows you to write unit tests for Clarity smart contracts in the 
